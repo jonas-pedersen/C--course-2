@@ -1,0 +1,18 @@
+﻿<Page
+    x:Class="FF1Jonas.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:FF1Jonas"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Button x:ConnectionId='2' x:Name="MyButton" Content="Tryck då!" Height="151" Margin="146,288,0,0" VerticalAlignment="Top" Width="337"                     />
+        <TextBox x:ConnectionId='3' x:Name="MyTextBox" HorizontalAlignment="Left" Height="110" Margin="604,329,0,0" Text="TextBox" TextWrapping="Wrap" VerticalAlignment="Top" Width="427"/>
+        <CheckBox x:ConnectionId='4' x:Name="MyCheckBox" Content="CheckBox" Height="12" Margin="604,288,0,0" VerticalAlignment="Top" Width="182"                       />
+
+    </Grid>
+</Page>
+

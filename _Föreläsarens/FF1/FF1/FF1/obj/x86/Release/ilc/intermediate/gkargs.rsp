@@ -1,0 +1,7 @@
+﻿"C:\Users\Marcus\source\repos\FF1\FF1\obj\x86\Release\ilc\in\FF1.exe"
+/Lib:"C:\Users\Marcus\source\repos\FF1\FF1\obj\x86\Release\ilc\in"
+/Lib:"C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.native.compiler\2.2.8-rel-28605-00\tools\x86\ilc\lib\Private"
+/WinMD:"C:\Users\Marcus\source\repos\FF1\FF1\obj\x86\Release\ilc\in\WinMetadata\Windows.winmd"
+/VSTelemetrySessionSettings:"{"IsOptedIn":true,"HostName":"Dev14","AppInsightsInstrumentationKey":"f144292e-e3b2-4011-ac90-20e5c03fbce5","AsimovInstrumentationKey":"AIF-312cbd79-9dbb-4c48-a7da-3cc2a931cb70","AppId":1001,"UserId":"e5659dba-a695-4cdf-977b-36c774737f65","Id":"023d5065-b552-405b-a980-69e61136df23","ProcessStartTime":637466568646359738}"
+/RdXmlPath:"C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\microsoft.net.native.compiler\2.2.8-rel-28605-00\tools\LibraryXML"
+/RunOnlyPreDR

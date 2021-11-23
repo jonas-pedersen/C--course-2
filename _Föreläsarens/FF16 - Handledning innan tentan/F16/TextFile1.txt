@@ -1,0 +1,83 @@
+﻿Generics
+
+1. Kolla på följande klasser:
+
+class Car
+{
+    ...
+}
+
+class Volvo: Car
+{
+    ...
+}
+
+class Mercedes: Car
+{
+    ...
+}
+
+class VolvoGarage
+{
+    public List<Volvo> bilar;
+    ...
+}
+
+class MercedesGarage
+{
+    public List<Mercedes> bilar;
+    ...
+}
+
+Lägg till något litet istället för "...". 
+Skriv en ny klass Garage<T> som ersätter behovet av både VolvoGarage och MercedesGarage. 
+Se till att du bara kan spara olika bilar i ditt garage, inte andra typer.
+
+2. Skapa en Duett-klass som tar två generiska typer, T1 och T2. 
+Klassen har två privata variabler ("ena" och "andra") av respektive typ, som sätts från konstruktorn.
+Den har två publika metoder FåEna() och FåAndra() som returnerar värdet från respektive variabel. 
+Du ska sedan kunna använda den t.ex. såhär:
+
+Duett<int, bool> par = new Duett<int, bool>(5, true);
+int femma = par.FåEna();
+bool sant = par.FåAndra(); 
+
+
+LINQ
+
+1. Skapa en List<int> med talen 1-100 (använd en for-loop för att lägga till). 
+
+2. Använd LINQ för att ta ut alla tal som är större än 50.
+
+var result = from tal in listan where ... select ...;
+
+3. Använd LINQ för att få ut talen i omvänd storleksordning.
+
+4. Lägg också till följande (lägg till några egna rader):
+var favoriter = new[] {
+    new { Namn = "Marcus", Favorittal = 42 },
+    new { Namn = "Omöjlig", Favorittal = 123456}
+}
+Använd LINQ för att ta ut namnet på alla personer vars favorittal finns med i listan ovan.
+
+5. Använd LINQ för att ta ut namnet på alla personer vars favorittal INTE finns med i listan ovan.
+
+
+Delegates & anonyma metoder
+
+1. Återskapa listan i LINQ uppgift 1 ovan.
+
+2. Du kan också hitta alla tal som är större än 50 genom att ge en metod som returnera true för tal som är större än 50, 
+och med metoden FindAll, såhär:
+
+public bool StörreänFemtio(int tal)
+{
+    return tal > 50;
+}
+
+var result = listan.FindAll(StörreÄnFemtio);
+
+Gör om detta men med en anonym metod.
+
+3. Använd .RemoveAll(...) för att ta bort alla tal mellan 10 och 20 med en liknande metod 
+(returnera true om tal är inom detta intervall).

@@ -1,0 +1,13 @@
+C:\Users\Marcus\source\repos\FF13_2\FF13_2\bin\Debug\netcoreapp3.1\FF13_2.exe
+C:\Users\Marcus\source\repos\FF13_2\FF13_2\bin\Debug\netcoreapp3.1\FF13_2.deps.json
+C:\Users\Marcus\source\repos\FF13_2\FF13_2\bin\Debug\netcoreapp3.1\FF13_2.runtimeconfig.json
+C:\Users\Marcus\source\repos\FF13_2\FF13_2\bin\Debug\netcoreapp3.1\FF13_2.runtimeconfig.dev.json
+C:\Users\Marcus\source\repos\FF13_2\FF13_2\bin\Debug\netcoreapp3.1\FF13_2.dll
+C:\Users\Marcus\source\repos\FF13_2\FF13_2\bin\Debug\netcoreapp3.1\FF13_2.pdb
+C:\Users\Marcus\source\repos\FF13_2\FF13_2\obj\Debug\netcoreapp3.1\FF13_2.AssemblyInfoInputs.cache
+C:\Users\Marcus\source\repos\FF13_2\FF13_2\obj\Debug\netcoreapp3.1\FF13_2.AssemblyInfo.cs
+C:\Users\Marcus\source\repos\FF13_2\FF13_2\obj\Debug\netcoreapp3.1\FF13_2.csproj.CoreCompileInputs.cache
+C:\Users\Marcus\source\repos\FF13_2\FF13_2\obj\Debug\netcoreapp3.1\FF13_2.dll
+C:\Users\Marcus\source\repos\FF13_2\FF13_2\obj\Debug\netcoreapp3.1\FF13_2.pdb
+C:\Users\Marcus\source\repos\FF13_2\FF13_2\obj\Debug\netcoreapp3.1\FF13_2.genruntimeconfig.cache
+C:\Users\Marcus\source\repos\FF13_2\FF13_2\obj\Debug\netcoreapp3.1\FF13_2.csprojAssemblyReference.cache

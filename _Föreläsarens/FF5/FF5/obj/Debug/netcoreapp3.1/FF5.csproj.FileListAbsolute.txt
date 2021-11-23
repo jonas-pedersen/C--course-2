@@ -1,0 +1,26 @@
+C:\Users\Marcus\source\repos\FF5\FF5\bin\Debug\netcoreapp3.1\FF5.exe
+C:\Users\Marcus\source\repos\FF5\FF5\bin\Debug\netcoreapp3.1\FF5.deps.json
+C:\Users\Marcus\source\repos\FF5\FF5\bin\Debug\netcoreapp3.1\FF5.runtimeconfig.json
+C:\Users\Marcus\source\repos\FF5\FF5\bin\Debug\netcoreapp3.1\FF5.runtimeconfig.dev.json
+C:\Users\Marcus\source\repos\FF5\FF5\bin\Debug\netcoreapp3.1\FF5.dll
+C:\Users\Marcus\source\repos\FF5\FF5\bin\Debug\netcoreapp3.1\FF5.pdb
+C:\Users\Marcus\source\repos\FF5\FF5\obj\Debug\netcoreapp3.1\FF5.csprojAssemblyReference.cache
+C:\Users\Marcus\source\repos\FF5\FF5\obj\Debug\netcoreapp3.1\FF5.AssemblyInfoInputs.cache
+C:\Users\Marcus\source\repos\FF5\FF5\obj\Debug\netcoreapp3.1\FF5.AssemblyInfo.cs
+C:\Users\Marcus\source\repos\FF5\FF5\obj\Debug\netcoreapp3.1\FF5.csproj.CoreCompileInputs.cache
+C:\Users\Marcus\source\repos\FF5\FF5\obj\Debug\netcoreapp3.1\FF5.dll
+C:\Users\Marcus\source\repos\FF5\FF5\obj\Debug\netcoreapp3.1\FF5.pdb
+C:\Users\Marcus\source\repos\FF5\FF5\obj\Debug\netcoreapp3.1\FF5.genruntimeconfig.cache
+C:\Users\jplkp\Documents\TUC\_6 Programmering .NET fördjupning\FÖ\kod\_Föreläsarens\FF5\FF5\bin\Debug\netcoreapp3.1\FF5.exe
+C:\Users\jplkp\Documents\TUC\_6 Programmering .NET fördjupning\FÖ\kod\_Föreläsarens\FF5\FF5\bin\Debug\netcoreapp3.1\FF5.deps.json
+C:\Users\jplkp\Documents\TUC\_6 Programmering .NET fördjupning\FÖ\kod\_Föreläsarens\FF5\FF5\bin\Debug\netcoreapp3.1\FF5.runtimeconfig.json
+C:\Users\jplkp\Documents\TUC\_6 Programmering .NET fördjupning\FÖ\kod\_Föreläsarens\FF5\FF5\bin\Debug\netcoreapp3.1\FF5.runtimeconfig.dev.json
+C:\Users\jplkp\Documents\TUC\_6 Programmering .NET fördjupning\FÖ\kod\_Föreläsarens\FF5\FF5\bin\Debug\netcoreapp3.1\FF5.dll
+C:\Users\jplkp\Documents\TUC\_6 Programmering .NET fördjupning\FÖ\kod\_Föreläsarens\FF5\FF5\bin\Debug\netcoreapp3.1\FF5.pdb
+C:\Users\jplkp\Documents\TUC\_6 Programmering .NET fördjupning\FÖ\kod\_Föreläsarens\FF5\FF5\obj\Debug\netcoreapp3.1\FF5.csprojAssemblyReference.cache
+C:\Users\jplkp\Documents\TUC\_6 Programmering .NET fördjupning\FÖ\kod\_Föreläsarens\FF5\FF5\obj\Debug\netcoreapp3.1\FF5.AssemblyInfoInputs.cache
+C:\Users\jplkp\Documents\TUC\_6 Programmering .NET fördjupning\FÖ\kod\_Föreläsarens\FF5\FF5\obj\Debug\netcoreapp3.1\FF5.AssemblyInfo.cs
+C:\Users\jplkp\Documents\TUC\_6 Programmering .NET fördjupning\FÖ\kod\_Föreläsarens\FF5\FF5\obj\Debug\netcoreapp3.1\FF5.csproj.CoreCompileInputs.cache
+C:\Users\jplkp\Documents\TUC\_6 Programmering .NET fördjupning\FÖ\kod\_Föreläsarens\FF5\FF5\obj\Debug\netcoreapp3.1\FF5.dll
+C:\Users\jplkp\Documents\TUC\_6 Programmering .NET fördjupning\FÖ\kod\_Föreläsarens\FF5\FF5\obj\Debug\netcoreapp3.1\FF5.pdb
+C:\Users\jplkp\Documents\TUC\_6 Programmering .NET fördjupning\FÖ\kod\_Föreläsarens\FF5\FF5\obj\Debug\netcoreapp3.1\FF5.genruntimeconfig.cache

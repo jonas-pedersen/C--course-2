@@ -1,0 +1,12 @@
+C:\Users\Marcus\source\repos\F3\F3\bin\Debug\netcoreapp3.1\F3.exe
+C:\Users\Marcus\source\repos\F3\F3\bin\Debug\netcoreapp3.1\F3.deps.json
+C:\Users\Marcus\source\repos\F3\F3\bin\Debug\netcoreapp3.1\F3.runtimeconfig.json
+C:\Users\Marcus\source\repos\F3\F3\bin\Debug\netcoreapp3.1\F3.runtimeconfig.dev.json
+C:\Users\Marcus\source\repos\F3\F3\bin\Debug\netcoreapp3.1\F3.dll
+C:\Users\Marcus\source\repos\F3\F3\bin\Debug\netcoreapp3.1\F3.pdb
+C:\Users\Marcus\source\repos\F3\F3\obj\Debug\netcoreapp3.1\F3.AssemblyInfoInputs.cache
+C:\Users\Marcus\source\repos\F3\F3\obj\Debug\netcoreapp3.1\F3.AssemblyInfo.cs
+C:\Users\Marcus\source\repos\F3\F3\obj\Debug\netcoreapp3.1\F3.csproj.CoreCompileInputs.cache
+C:\Users\Marcus\source\repos\F3\F3\obj\Debug\netcoreapp3.1\F3.dll
+C:\Users\Marcus\source\repos\F3\F3\obj\Debug\netcoreapp3.1\F3.pdb
+C:\Users\Marcus\source\repos\F3\F3\obj\Debug\netcoreapp3.1\F3.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+C:\Users\jplkp\Documents\TUC\_6 Programmering .NET fördjupning\FÖ\kod\FF13\obj\Debug\net5.0\FF13.csprojAssemblyReference.cache
+C:\Users\jplkp\Documents\TUC\_6 Programmering .NET fördjupning\FÖ\kod\FF13\obj\Debug\net5.0\FF13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jplkp\Documents\TUC\_6 Programmering .NET fördjupning\FÖ\kod\FF13\obj\Debug\net5.0\FF13.AssemblyInfoInputs.cache
+C:\Users\jplkp\Documents\TUC\_6 Programmering .NET fördjupning\FÖ\kod\FF13\obj\Debug\net5.0\FF13.AssemblyInfo.cs
+C:\Users\jplkp\Documents\TUC\_6 Programmering .NET fördjupning\FÖ\kod\FF13\obj\Debug\net5.0\FF13.csproj.CoreCompileInputs.cache

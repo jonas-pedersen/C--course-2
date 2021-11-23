@@ -1,0 +1,13 @@
+C:\Users\Marcus\source\repos\FF8\FF8\bin\Debug\netcoreapp3.1\FF8.exe
+C:\Users\Marcus\source\repos\FF8\FF8\bin\Debug\netcoreapp3.1\FF8.deps.json
+C:\Users\Marcus\source\repos\FF8\FF8\bin\Debug\netcoreapp3.1\FF8.runtimeconfig.json
+C:\Users\Marcus\source\repos\FF8\FF8\bin\Debug\netcoreapp3.1\FF8.runtimeconfig.dev.json
+C:\Users\Marcus\source\repos\FF8\FF8\bin\Debug\netcoreapp3.1\FF8.dll
+C:\Users\Marcus\source\repos\FF8\FF8\bin\Debug\netcoreapp3.1\FF8.pdb
+C:\Users\Marcus\source\repos\FF8\FF8\obj\Debug\netcoreapp3.1\FF8.csprojAssemblyReference.cache
+C:\Users\Marcus\source\repos\FF8\FF8\obj\Debug\netcoreapp3.1\FF8.AssemblyInfoInputs.cache
+C:\Users\Marcus\source\repos\FF8\FF8\obj\Debug\netcoreapp3.1\FF8.AssemblyInfo.cs
+C:\Users\Marcus\source\repos\FF8\FF8\obj\Debug\netcoreapp3.1\FF8.csproj.CoreCompileInputs.cache
+C:\Users\Marcus\source\repos\FF8\FF8\obj\Debug\netcoreapp3.1\FF8.dll
+C:\Users\Marcus\source\repos\FF8\FF8\obj\Debug\netcoreapp3.1\FF8.pdb
+C:\Users\Marcus\source\repos\FF8\FF8\obj\Debug\netcoreapp3.1\FF8.genruntimeconfig.cache

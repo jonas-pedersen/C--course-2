@@ -1,0 +1,13 @@
+C:\Users\Marcus\source\repos\F10\F10\bin\Debug\netcoreapp3.1\F10.exe
+C:\Users\Marcus\source\repos\F10\F10\bin\Debug\netcoreapp3.1\F10.deps.json
+C:\Users\Marcus\source\repos\F10\F10\bin\Debug\netcoreapp3.1\F10.runtimeconfig.json
+C:\Users\Marcus\source\repos\F10\F10\bin\Debug\netcoreapp3.1\F10.runtimeconfig.dev.json
+C:\Users\Marcus\source\repos\F10\F10\bin\Debug\netcoreapp3.1\F10.dll
+C:\Users\Marcus\source\repos\F10\F10\bin\Debug\netcoreapp3.1\F10.pdb
+C:\Users\Marcus\source\repos\F10\F10\obj\Debug\netcoreapp3.1\F10.csprojAssemblyReference.cache
+C:\Users\Marcus\source\repos\F10\F10\obj\Debug\netcoreapp3.1\F10.AssemblyInfoInputs.cache
+C:\Users\Marcus\source\repos\F10\F10\obj\Debug\netcoreapp3.1\F10.AssemblyInfo.cs
+C:\Users\Marcus\source\repos\F10\F10\obj\Debug\netcoreapp3.1\F10.csproj.CoreCompileInputs.cache
+C:\Users\Marcus\source\repos\F10\F10\obj\Debug\netcoreapp3.1\F10.dll
+C:\Users\Marcus\source\repos\F10\F10\obj\Debug\netcoreapp3.1\F10.pdb
+C:\Users\Marcus\source\repos\F10\F10\obj\Debug\netcoreapp3.1\F10.genruntimeconfig.cache

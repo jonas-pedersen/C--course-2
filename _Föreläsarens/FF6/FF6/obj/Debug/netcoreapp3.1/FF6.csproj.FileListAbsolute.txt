@@ -1,0 +1,13 @@
+C:\Users\Marcus\source\repos\FF6\FF6\bin\Debug\netcoreapp3.1\FF6.exe
+C:\Users\Marcus\source\repos\FF6\FF6\bin\Debug\netcoreapp3.1\FF6.deps.json
+C:\Users\Marcus\source\repos\FF6\FF6\bin\Debug\netcoreapp3.1\FF6.runtimeconfig.json
+C:\Users\Marcus\source\repos\FF6\FF6\bin\Debug\netcoreapp3.1\FF6.runtimeconfig.dev.json
+C:\Users\Marcus\source\repos\FF6\FF6\bin\Debug\netcoreapp3.1\FF6.dll
+C:\Users\Marcus\source\repos\FF6\FF6\bin\Debug\netcoreapp3.1\FF6.pdb
+C:\Users\Marcus\source\repos\FF6\FF6\obj\Debug\netcoreapp3.1\FF6.csprojAssemblyReference.cache
+C:\Users\Marcus\source\repos\FF6\FF6\obj\Debug\netcoreapp3.1\FF6.AssemblyInfoInputs.cache
+C:\Users\Marcus\source\repos\FF6\FF6\obj\Debug\netcoreapp3.1\FF6.AssemblyInfo.cs
+C:\Users\Marcus\source\repos\FF6\FF6\obj\Debug\netcoreapp3.1\FF6.csproj.CoreCompileInputs.cache
+C:\Users\Marcus\source\repos\FF6\FF6\obj\Debug\netcoreapp3.1\FF6.dll
+C:\Users\Marcus\source\repos\FF6\FF6\obj\Debug\netcoreapp3.1\FF6.pdb
+C:\Users\Marcus\source\repos\FF6\FF6\obj\Debug\netcoreapp3.1\FF6.genruntimeconfig.cache
